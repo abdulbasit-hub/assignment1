@@ -1,0 +1,31 @@
+h1{
+     text-align: center;
+     color: blueviolet;
+}
+form{
+    background-color: blueviolet;
+    color: white;
+}
+ #table1{
+   width: 100%;
+   height: 450px;
+   
+   
+}
+#table2{
+    width: 100%;
+    height: 200px;
+    
+    
+ }
+ #table3{
+    width: 80%;
+    height: 50px;
+    
+    
+ }
+ .center{
+
+     
+     text-align: center;
+ }
